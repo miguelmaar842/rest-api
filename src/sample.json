@@ -1,0 +1,72 @@
+[
+    {
+        "id": "1", 
+        "nombre":"Flor de Jamaica", 
+        "nombre_cientifico":"Hibiscus sabdariffa", 
+        "imagen": "https://www.floresyplantas.net/wp-content/uploads/flor-de-jamaica.jpg", 
+        "descripcion":"Es una planta arbustiva de crecimiento anual, que mide aproximadamente 2.5 metros de altura, su tallo es rojo, cilíndrico, liso y suave."
+    },
+    {
+        "id":"2",
+        "nombre":"Guayaba",
+        "nombre_cientifico":"Psidium guajava",
+        "imagen":"https://wikiplanta.org/uploads/images/gallery/2020-08/Guava-2.jpg",
+        "descripcion": "Es un fruto conocido por su importante aporte de vitamina C, e incluso mayor a los cítricos, por eso la recomendación de consumirla en época de fríos toda vez que fortalece el cuerpo y su sistema inmunológico para combatir virus y bacterias en la garganta y las vías respiratorias."
+    },
+    {
+        "id":"3",
+        "nombre":"Naranja",
+        "nombre_cientifico":"Citrus sinensis",
+        "imagen":"https://previews.123rf.com/images/bugphai/bugphai1502/bugphai150200006/36213695-naranja-fresca-en-planta-%C3%A1rbol-de-naranja.jpg",
+        "descripcion": "Es la variedad más versátil, dentro de la cual encontramos las naranjas de valencia. Sirve tanto como para consumir de mesa o en zumo, por su gran versatilidad en la cocina: son jugosas, dulces, sin pepitas, fáciles de pelar y no tienen semillas. Su característica principal es «el ombligo» que se ve en su formación inferior."
+    },
+    {
+        "id":"4",
+        "nombre":"Limón",
+        "nombre_cientifico":"Citrus limon",
+        "imagen":"https://http2.mlstatic.com/D_NQ_NP_982261-MLM25903904119_082017-W.jpg",
+        "descripcion": "Es un pequeño árbol frutal perenne. Su fruto es el limón  o citrón,  una fruta comestible de sabor ácido y extremadamente fragante que se usa principalmente en la alimentación. La mayoría de las variedades producen frutos durante todo el año."
+    },
+    {
+        "id":"5",
+        "nombre":"Aguacate",
+        "nombre_cientifico":"Persea americana",
+        "imagen":"https://jardineriapractica.com/wp-content/uploads/2020/04/%C3%81rbol-de-aguacate.jpg",
+        "descripcion": "Es el fruto del árbol del mismo nombre, de hoja perenne de la familia de las lauráceas. Con forma de pera, en su interior contiene una única semilla redondeada de color claro y 2-4 cm de longitud (salvo la variedad dátil), que aparece recubierta de una delgada capa leñosa de color marrón."
+    },
+    {
+        "id":"6",
+        "nombre":"Papaya ",
+        "nombre_cientifico":"Carica papaya",
+        "imagen":"https://www.aboutespanol.com/thmb/IjzEswyW7fMn1Nah5Zvl6sUCgVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/photo-142-56a543823df78cf772875d11.JPG",
+        "descripcion": "Es una planta herbácea de tallo carnoso, frágil, muy esponjoso y hueco en su parte central; llega a medir hasta 9 m de altura y sus hojas son de color verde oscuro, gruesas y hasta de 80 cm de longitud, alternas y muy juntas entre sí. Las papayas son los frutos de los papayos."
+    },
+    {
+        "id":"7",
+        "nombre":"Mango",
+        "nombre_cientifico":"Mangifera indica",
+        "imagen":"https://arbolesfrutales.org/wp-content/uploads/2014/12/Mango-todo-lo-que-debes-saber.jpg",
+        "descripcion": "Tiene un sabor dulce y afrutado, con un ligero toque ácido. Destaca por su bajo contenido en azúcar en comparación con las otras variedades. Mango Kent, de forma ovalada ensanchado, destaca por su dulzura intensa con un sabor ligero a melocotón. Su pulpa es jugosa y tiene poca fibra."
+    },
+    {
+        "id":"8",
+        "nombre":"Frigol negro",
+        "nombre_cientifico":"Phaseolus vulgaris",
+        "imagen":"https://c8.alamy.com/compes/abhade/las-vainas-secas-de-la-planta-de-frijol-ojo-negro-en-el-campo-filipinas-abhade.jpg",
+        "descripcion": "El fruto es una vaina suavemente curvada y dehiscente, lo que significa que se abre natu- ralmente cuando está madura. Esta vaina puede medir de 10 a 12 cm y es de color verde, morada o casi negra"
+    },
+    {
+        "id":"9",
+        "nombre":"Maiz",
+        "nombre_cientifico":"Zea mays",
+        "imagen":"https://img.freepik.com/fotos-premium/primer-plano-mazorca-maiz-planta-maiz-o-maiz-campo-esperando-cosecha_338311-1598.jpg?w=2000",
+        "descripcion": "El maíz es un alimento básico en la dieta sin gluten. Pero el maíz no solo aporta sabor; estos pequeños granos amarillos sin gluten están llenos de importantes nutrientes que también tienen importantes beneficios para la salud. Sigue leyendo para descubrir todas las ventajas de incluir maíz en una dieta sin gluten."
+    },
+    {
+        "id":"10",
+        "nombre":"Platano",
+        "nombre_cientifico":"Musa paradisiaca",
+        "imagen":"https://huertosymas.com//wp-content/uploads/2021/04/planta-de-plantano-e1618258005120.jpg",
+        "descripcion": "Esta fruta tropical cuenta con una pulpa suave y aromática es uno de los postres más típicos gracias a su sencillez para pelar y comer."
+    }
+]
